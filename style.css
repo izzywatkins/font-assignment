@@ -5,12 +5,15 @@ font-family: 'Dancing Script', cursive;
 
 body  {
     font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
 }
 
 h1 {
     font-family: 'Dancing Script', cursive;
+    font-size: 80px;
 }
 
 h2 {
     font-family: 'Dancing Script', cursive;
+    font-size: 60px;
 }
